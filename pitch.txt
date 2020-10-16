@@ -1,0 +1,34 @@
+pitch
+I am Patrick Motsebo, a full stack developer with 360 degree view on the application process.developing using
+ languages, framework ,like html, css, c , javascript, mysql, php, laravel, react, jquery, python
+I am fovused  on customer satisfaction.
+As technology is improving everyday, I am ready to learn more and more to be update, then give the best of
+to reach my goals.
+
+Statefarm Insurance : "detailler"
+php/mysql/xcelsius/actionscript/flash/html
+Retrieved datas from the database server Mysql through php scripts, provided those datas to Xcelsius which will
+generate a .swf file, insert that file on html page through javascript (embed the object swfobject)
+Jabil :   "detailler"
+php/mysql/jpgraph "module for piechart"
+Retrieved datas from the database server Mysql through php scripts, used Jpgraph to build piecharts, based on datas 
+provided to the jpgraph classes(lines plot, 3D plot) called.
+   - line plots
+   - Pie Plots
+   - 3D Pie plots
+
+freelance :   focused on frontend
+
+Javascript (Nodejs : framework :angular, react, vue)   learning
+
+
+ currently :
+   - developed and application that allow the user to get informations about restaurant over the world,
+    depending of his choices.(react, bootstrap,mediaqueries, grid)
+      get a web developer certificate from harvard university where the final project was to
+   - develop a yellow page application, python, html,flask, sqlite, ajax, css)
+          on most of those applications, 
+          The backend is going very fast, but I
+ spent more time side view/frontend, that's what I feel more and more 
+interesting on tools that will help me to work more faster side view, that's how  framework like
+Angular, React, Vues are welcome.
